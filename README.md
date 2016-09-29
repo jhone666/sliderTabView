@@ -1,2 +1,2 @@
 # 效果图
-file:///C:/Users/win/Desktop/GIF.gif
+https://github.com/jhone666/sliderTabView/sliderTabView.gif
